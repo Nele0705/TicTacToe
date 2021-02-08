@@ -1,0 +1,10 @@
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.csprojAssemblyReference.cache
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.Form1.resources
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.Properties.Resources.resources
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.csproj.GenerateResource.cache
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.csproj.CoreCompileInputs.cache
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\bin\Debug\TicTacToeWhatever.exe.config
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\bin\Debug\TicTacToeWhatever.exe
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\bin\Debug\TicTacToeWhatever.pdb
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.exe
+C:\Users\Nele\source\repos\TicTacToeWhatever\TicTacToeWhatever\obj\Debug\TicTacToeWhatever.pdb
